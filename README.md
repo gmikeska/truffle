@@ -18,12 +18,11 @@ Truffle is a development environment, testing framework and asset pipeline for E
 * Instant rebuilding of assets during development.
 * External script runner that executes scripts within a Truffle environment.
 
-### Install
-
+### To Update to Greg's Custom Truffle
 ```
-$ npm install -g truffle
+$ npm uninstall truffle
+$ npm install https://github.com/gmikeska/truffle.git -g
 ```
-
 ### Documentation
 
 Please see the [Official Truffle Documentation](http://truffle.readthedocs.org/en/latest/) for guides, tips, and examples.
