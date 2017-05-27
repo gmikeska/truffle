@@ -4,6 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/truffle.svg)]()
 [![npm](https://img.shields.io/npm/dm/truffle.svg)]()
+[![Build Status](https://travis-ci.org/ConsenSys/truffle.svg?branch=master)](https://travis-ci.org/ConsenSys/truffle)
 [![Join the chat at https://gitter.im/consensys/truffle](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/consensys/truffle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 -----------------------
@@ -27,7 +28,7 @@ $ npm install https://github.com/gmikeska/truffle.git -g
 ```
 ### Documentation
 
-Please see the [Official Truffle Documentation](http://truffle.readthedocs.org/en/latest/) for guides, tips, and examples.
+Please see the [Official Truffle Documentation](http://truffleframework.com/docs/) for guides, tips, and examples.
 
 ### Contributing
 
